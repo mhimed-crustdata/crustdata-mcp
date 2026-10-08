@@ -1,0 +1,13 @@
+{
+  "identifier": "crustdata",
+  "name": "Crustdata",
+  "version": "1.0.0",
+  "author": "Crustdata",
+  "authorUrl": "https://crustdata.com",
+  "category": "tools",
+  "cloudEndpoint": "https://install.crustdata.com/mcp",
+  "description": "Real-time B2B data for agents: search and enrich 1B+ people and 200M+ company profiles for recruiting, sales and investment research.",
+  "homepage": "https://crustdata.com",
+  "icon": "https://raw.githubusercontent.com/mhimed-crustdata/crustdata-mcp/main/logo.png",
+  "tags": ["b2b-data", "people-search", "company-data", "enrichment", "sales", "recruiting", "leads"]
+}
